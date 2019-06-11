@@ -8,6 +8,10 @@ Student will be able to:
 * Identify the recursive case
 * Basically, not be totally intimidated or mystified by recursion and see that it works via the same principles we already know (functions call functions, wait for the calls to evaluate to a return value)
 
+## Past Videos
+* [manhattan 021819](https://www.youtube.com/watch?v=7Pna0xcfK7Q&feature=youtu.be)
+* [manhattan 012819](https://www.youtube.com/watch?v=mYvRlqkNVL4&feature=youtu.be)
+
 ## Prerequisites
 Get a big stack of post-it notes and/or index cards. At the start of the lecture ask that each student take about 10. Ask that students bring a pen/ pencil/ writing instrument of some kind.
 
